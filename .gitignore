@@ -1,0 +1,9 @@
+*.swp
+cluster-master-socket
+node_modules/
+build/
+.idea/
+config-files/
+
+config.json
+job/run-reminder-job.config.json

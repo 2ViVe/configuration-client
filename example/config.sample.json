@@ -1,0 +1,11 @@
+{
+  "name": "configuration-client-example",
+  "port": "3002",
+  "log": {
+    "level": "trace"
+  },
+  "configurationService": {
+    "host": "localhost",
+    "port": 3001
+  }
+}
